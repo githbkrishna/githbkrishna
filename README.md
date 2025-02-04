@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @githbkrishna
+- 👋 Hi, I’m Hariom Singh @githbkrishna
 - 👀 I’m interested in Creative Frontend Development
 - 🌱 I’m currently learning Java Backend | GSAP | Next JS | React Native | TypeScript
 - 💞️ I’m looking to collaborate on Frontend Development
